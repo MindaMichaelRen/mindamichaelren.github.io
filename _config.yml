@@ -18,23 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: “Minda Ren”  
+title: Minda's Page
 email: mr2389@cornell.edu
-author:  
-  name: “Minda Ren”  
-  bio: “Quantitative finance student @ Cornell, building execution-algos & risk models.”  
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm Minda Ren, a quantitative finance student at Cornell University.
 
 url: "https://mindamichaelren.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  nav_links:
+    - title: "About Me"
+      url: "/about/"
+    - title: "Experience"
+      url: "/experience/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Education & Skills"
+      url: "/education/"
+    - title: "Activities & Certificates"
+      url: "/misc/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

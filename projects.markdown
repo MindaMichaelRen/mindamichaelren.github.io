@@ -4,21 +4,21 @@ title: "Projects"
 permalink: /projects/
 ---
 
-### Execution Algo Simulator  
-- **Tech:** Python, pandas, NumPy, Matplotlib  
-- **Description:** Compare TWAP vs. GARCH‐based urgency factors.  
-- **Outcome:** Reduced implementation shortfall by 15% in backtests.
+## US Stock Algorithmic Trading (Personal Project)  
+**Duration:** Jul 2021 – Aug 2024  
 
-### Gender‑Bias Markov Model  
-- **Tech:** R, Markov chains, Shiny  
-- **Description:** Simulate promotion dynamics to quantify bias over 50 years.  
-- **Outcome:** Identified policy levers that improve parity by 30%.
+- Developed systematic intraday trading algorithm for U.S. equities using Python, pandas, NumPy, and Matplotlib  
+- Integrated data feeds from Polygon IO and Alpaca APIs for real‑time quotes and order routing  
+- Achieved an annualized return of 543% in backtests  
+- Enhanced signals with NLP models to optimize trade timing, improving win rate by 23%
 
-### Portfolio Risk Dashboard  
-- **Tech:** React, d3.js, Recharts  
-- **Description:** Interactive web app displaying real‐time VaR, CVaR, beta heatmaps.  
-- **Demo:** [Live preview coming soon…]
+## Huawei Internet Access Service (Tsinghua University)  
+**Duration:** Feb 2021 – Jul 2021  
 
-### Misc Tools  
+- Led a team of five to build a Vue.js front‑end and Django back‑end for Huawei’s internet access platform  
+- Enabled over 400 concurrent users to connect reliably to Huawei services  
+- Conducted bi‑weekly design reviews with Huawei stakeholders and iterated on requirements
+
+## Misc Tools  
 - **SQL Query Builder:** Automates data pulls from trade databases.  
 - **Excel VBA Macro:** Bulk‐formatting of P&L reports.

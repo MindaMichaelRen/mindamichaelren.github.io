@@ -4,11 +4,22 @@ title: "About Me"
 permalink: /about/
 ---
 
-I’m a rising senior in Cornell’s Financial Engineering program. My academic interests include:
+## Biography
 
-- **Stochastic calculus** & derivatives pricing  
-- **Time-series forecasting**, e.g. GARCH, ARIMA  
-- **Execution algorithms** (TWAP, POV, limit‐order placement)  
-- **Machine learning** for signal generation  
+I’m pursuing a Master of Engineering in Financial Engineering at Cornell University, building expertise in quantitative modeling, execution algorithms, and time‑series forecasting. Previously, I graduated **Summa Cum Laude** with a B.S. in Computer Science & Finance from Northeastern University and studied abroad at Tsinghua University in Beijing.
 
-Over the past year, I’ve interned in Quant Dev at Manulife, built backtests for multi‐factor strategies, and researched gender‐bias in corporate promotion models. When I’m not coding, I enjoy chess and road cycling.
+## Education
+
+- **Cornell University** — M.Eng. in Financial Engineering
+- **Northeastern University** — B.S. in Computer Science & Finance, Summa Cum Laude
+- **Tsinghua University** — Study Abroad
+
+## Selected Coursework
+
+Applied Time Series Analysis · Market Microstructure & Trading · Machine Learning & Data Mining · Stochastic Calculus · Algorithm Design · Fixed Income Securities
+
+## Contact
+
+- 📧 mr2389@cornell.edu  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/minda-michael-ren/)  
+- 🐙 [GitHub @mindamichaelren](https://github.com/mindamichaelren)
