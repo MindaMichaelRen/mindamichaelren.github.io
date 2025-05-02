@@ -1,0 +1,44 @@
+/* File: assets/css/style.scss */
+---
+---
+@import "minima";  /* Keep the theme’s base styles */
+
+/*— Custom Header Styles —*/
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  padding: 1rem 0;
+}
+.wrapper.site-nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.site-title {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #333;
+  text-decoration: none;
+}
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+.site-nav__link {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  color: #555;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.site-nav__link:hover {
+  background-color: #f5f5f5;
+  color: #000;
+}

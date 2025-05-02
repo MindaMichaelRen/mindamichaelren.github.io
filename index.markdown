@@ -18,6 +18,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/minda-michael-ren/) an
 
 - [About Me](/about/)
 - [Experience](/experience/)
-- [Projects](/projects/)
 - [Education & Skills](/education/)
-- [Activities & Certificates](/misc/)
+- [Projects](/projects/)

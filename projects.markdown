@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## US Stock Algorithmic Trading (Personal Project)  
+## US Stock Algorithmic Trading
 **Duration:** Jul 2021 – Aug 2024  
 
 - Developed systematic intraday trading algorithm for U.S. equities using Python, pandas, NumPy, and Matplotlib  
@@ -12,7 +12,7 @@ permalink: /projects/
 - Achieved an annualized return of 543% in backtests  
 - Enhanced signals with NLP models to optimize trade timing, improving win rate by 23%
 
-## Huawei Internet Access Service (Tsinghua University)  
+## Huawei Internet Access Service
 **Duration:** Feb 2021 – Jul 2021  
 
 - Led a team of five to build a Vue.js front‑end and Django back‑end for Huawei’s internet access platform  

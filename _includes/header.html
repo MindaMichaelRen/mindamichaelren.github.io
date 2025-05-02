@@ -1,0 +1,17 @@
+<!-- File: _includes/header.html -->
+<header class="site-header" role="banner">
+  <div class="wrapper site-nav-wrapper">
+    <!-- Logo / Site Title -->
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+    <!-- Custom nav links -->
+    <nav class="site-nav">
+      {% for link in site.minima.nav_links %}
+        <a class="site-nav__link" href="{{ link.url | relative_url }}">
+          {{ link.title }}
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
