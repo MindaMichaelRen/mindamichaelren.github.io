@@ -22,11 +22,10 @@ title: “Minda Ren”
 email: mr2389@cornell.edu
 author:  
   name: “Minda Ren”  
-  bio: “Quantitative finance student @ Cornell, building execution‐algos & risk models.”  
+  bio: “Quantitative finance student @ Cornell, building execution-algos & risk models.”  
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello! I'm Minda Ren, a quantitative finance student at Cornell University.
+
 url: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb

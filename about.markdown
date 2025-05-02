@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: "About Me"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m a rising senior in Cornell’s Financial Engineering program. My academic interests include:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- **Stochastic calculus** & derivatives pricing  
+- **Time-series forecasting**, e.g. GARCH, ARIMA  
+- **Execution algorithms** (TWAP, POV, limit‐order placement)  
+- **Machine learning** for signal generation  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Over the past year, I’ve interned in Quant Dev at Manulife, built backtests for multi‐factor strategies, and researched gender‐bias in corporate promotion models. When I’m not coding, I enjoy chess and road cycling.
